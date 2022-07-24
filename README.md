@@ -24,10 +24,10 @@ Users should be able to:
 - See hover states for interactive elements---------------------------------checked
 
 ### Screenshot
-
+![NFT preview card](https://user-images.githubusercontent.com/105184379/180635978-9301fb46-1fe6-4367-a319-ddb828d27a1a.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT preview card](https://carson3377.github.io/NFT-preview-card/NFT.html)
 
 
 
