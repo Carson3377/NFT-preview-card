@@ -48,4 +48,4 @@ I've learnt to make a NFT preview card with pure HTML semantic elements & CSS.
 
 
 ## Acknowledgement
-Credit to Bhushan (@lurnfx) & Lucas (@correlucas) for helping me out for this projects with their solutions. Both dudes are also participating in Frontendmentor.io, be sure to follow these bros in GitHub and Frontendmentor.io, ya!
+Credit to Bhushan (@lurnfx) (https://github.com/lurnfx) & Lucas (@correlucas) (https://github.com/correlucas) for helping me out for this projects with their solutions. Both dudes are also participating in Frontendmentor.io, be sure to follow these bros in GitHub and Frontendmentor.io, ya!
