@@ -11,6 +11,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Acknowledgement] (#acknowledgement)
 
 
 
@@ -43,3 +44,8 @@ Users should be able to:
 
 ### What I learned
 I've learnt to make a NFT preview card with pure HTML semantic elements & CSS.
+
+
+
+## Acknowledgement
+Credit to Bhushan (@lurnfx) & Lucas (@correlucas) for helping me out for this projects with their solutions. Both dudes are also participating in Frontendmentor.io, be sure to follow these bros in GitHub and Frontendmentor.io, ya!
